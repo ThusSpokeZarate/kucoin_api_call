@@ -27,6 +27,7 @@ New features to develop:
 2. ASSETS-Trading Acount:
     - Overall average price of current position
     - "In Profit" Price, accounting for fee
+    - Compare average price of current position to current market price to determine realtime profit/loss potential
 
 
 
